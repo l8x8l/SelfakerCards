@@ -1,1 +1,8 @@
-
+{
+"QuizName":"Java - Data Types - String",
+"Cards":[
+ {"question":"Тип String относится к примитивным или к ссылочным типам данных?",
+  "answer":"К ссылочным."},
+ 
+]
+}
