@@ -2,6 +2,18 @@
 "QuizName":"Java - Data Types - String",
 "Cards":[
  {"question":"Тип String относится к примитивным или к ссылочным типам данных?",
- "answer":"К ссылочным."}
+  "answer":"К ссылочным."},
+ 
+ {"question":"Перечислите дочерние и родительские классы для класса String.",
+  "answer":"String наследует класс Object. Дочерних классов у String не может быть из-за модификатора final."},
+ 
+ {"question":"Какие интерфейсы имплементирует класс String?",
+  "answer":"Serializable, Comparable<String>, CharSequence."},
+ 
+ {"question":"Тип String относится к изменяемым или неизменяемым типам данных?",
+  "answer":"String - неизменяемый (immutable) тип данных."},
+ 
+ {"question":"Как выглядит литерал для типа String?",
+  "answer":"Для типа String литерал представляет собой набор символов,заключённый в двойные кавычки."}
 ]
 }
