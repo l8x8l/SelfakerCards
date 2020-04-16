@@ -1,8 +1,8 @@
 {
-"QuizName":"Java - Data Types - String",
+"QuizName":"Java - Modifiers - String",
 "Cards":[
- {"question":"Тип String относится к примитивным или к ссылочным типам данных?",
-  "answer":"К ссылочным."},
+ {"question":"Как модификатор final влияет на класс?",
+  "answer":"У класса с модификатором final не может быть наследников."}
  
 ]
 }
