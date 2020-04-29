@@ -1,0 +1,19 @@
+{
+"QuizName":"Android - SharedPreferences",
+"Cards":[
+ {"question":"Какие встроенные методы возвращают экземпляр класса SharedPreferences?",
+  "answer":"getPreferences(),\n getSharedPreferences(), \n getDefaultSharedPreferences()."},
+  
+ {"question":"Какие типы данных может хранить объект SharedPreferences?",
+  "answer":"Boolean, float, int, long, String. Начиная с API 11, Set<String>"},
+  
+ {"question":"Как удалить все пары ключ-значение из SharedPreferences?",
+  "answer":"У объекта Editor вызвать метод clear() и затем apply()."},
+  
+ {"question":"Как удалить определённую пару ключ-значение из SharedPreferences?",
+  "answer":"У объекта Editor вызвать метод remove(), в качестве аргумента передать ключ и затем использовать метод apply()."},
+  
+ {"question":"Как получить объект Editor от SharedPreferences?",
+  "answer":"У объекта SharedPreferences вызвать метод edit(). Сохранить в переменную SharedPreferences.Editor."}
+]
+}
