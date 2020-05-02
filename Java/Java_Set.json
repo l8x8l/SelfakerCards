@@ -2,7 +2,9 @@
 {
 "SetName":"Java",
 "Quizzes":[
- "Java - Data Types - Basics"
-
+ 
+]
+ "Sets":[
+ "Java - Data Types"
 ]
 }
