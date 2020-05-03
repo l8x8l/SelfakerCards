@@ -2,7 +2,9 @@
 {
 "SetName":"Java",
 "Quizzes":[
- "https://raw.githubusercontent.com/l8x8l/SelfakerCards/master/Java/Java_Methods.json"
+ {
+ "quizName":"Java - Methods",
+ "source":"https://raw.githubusercontent.com/l8x8l/SelfakerCards/master/Java/Java_Methods.json"},
 ],
  "Sets":[
  "https://raw.githubusercontent.com/l8x8l/SelfakerCards/master/Java/DataTypes/Java_DataTypes_Set.json"
